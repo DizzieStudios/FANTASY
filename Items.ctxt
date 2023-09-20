@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=type
+comment1.target=Items(Type)
+comment2.params=
+comment2.target=Type\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=worth
+comment4.target=void\ setWorth(int)
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=int\ getWorth()
+comment7.params=type
+comment7.target=boolean\ isType(Type)
+numComments=8

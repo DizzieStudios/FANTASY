@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\n\ A\ class\ that\ is\ used\ to\ generate\ an\ attack-value\ for\ a\ character\n\ @author\ Dizzie\n\ @version\ 1.1\n
+comment1.params=level\ dice
+comment1.target=Attack(int,\ int)
+comment1.text=\n\ Create\ an\ Attack-object\ for\ a\ monster\n\ @param\ level\ level\ of\ the\ monster\n\ @param\ dice\ number\ of\ possible\ randomly\ generated\ natural\ numbers(between\ 1\ and\ dice)\ for\ the\ attack\n
+comment2.params=dice\ h
+comment2.target=Attack(int,\ Hero)
+comment3.params=level
+comment3.target=void\ setLevel(int)
+comment3.text=\n\ Set\ the\ level\ of\ the\ monster.\n\ @param\ level\ level\ of\ the\ monster\n
+comment4.params=
+comment4.target=void\ calculateAttack()
+comment4.text=\n\ \ Calculates\ the\ attack-value\ for\ the\ given\ Character-object\n
+comment5.params=
+comment5.target=double\ getAttack()
+comment5.text=\n\n\ @return\ calculated\ attack-value\ for\ the\ given\ Character-Object\n
+numComments=6

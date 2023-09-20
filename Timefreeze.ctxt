@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Timefreeze
+comment1.params=hero
+comment1.target=Timefreeze(Hero)
+comment2.params=turn\ monster
+comment2.target=void\ cast(int,\ Monster)
+comment3.params=turn
+comment3.target=void\ checkDuration(int)
+numComments=4

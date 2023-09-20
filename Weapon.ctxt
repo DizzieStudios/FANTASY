@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=m
+comment1.target=Weapon(Material)
+comment2.params=
+comment2.target=double\ getBonus()
+comment3.params=bonus
+comment3.target=void\ setBonus(double)
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\n\n\ @param\ name\n
+numComments=5

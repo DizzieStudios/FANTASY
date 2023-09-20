@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=hero
+comment1.target=Shop(Hero)
+comment2.params=
+comment2.target=void\ open()
+comment3.params=
+comment3.target=Items[]\ getStock()
+comment4.params=
+comment4.target=void\ listStock()
+comment5.params=
+comment5.target=void\ generateOffers()
+comment6.params=index
+comment6.target=void\ buy(int)
+numComments=7

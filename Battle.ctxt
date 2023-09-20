@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Battle
+comment1.params=hero\ monster\ ui
+comment1.target=Battle(Hero,\ Monster,\ UI)
+comment2.params=
+comment2.target=java.lang.String\ turn()
+comment3.params=
+comment3.target=void\ playTurn()
+comment4.params=
+comment4.target=boolean\ isOver()
+numComments=5

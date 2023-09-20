@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ability
+comment1.params=strength\ cost\ user
+comment1.target=Ability(int,\ double,\ Hero)
+comment2.params=
+comment2.target=Hero\ getHero()
+comment3.params=
+comment3.target=void\ use()
+comment4.params=
+comment4.target=double\ getCost()
+comment5.params=
+comment5.target=int\ getStrength()
+numComments=6

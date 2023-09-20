@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hack_And_Slash
+comment1.params=hero
+comment1.target=Hack_And_Slash(Hero)
+comment2.params=monster
+comment2.target=void\ cast(Monster)
+numComments=3

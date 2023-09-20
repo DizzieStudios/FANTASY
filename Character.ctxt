@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=name\ life
+comment1.target=Character(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getLife()
+comment4.params=life
+comment4.target=void\ reduceLife(int)
+comment5.params=
+comment5.target=int\ getMaxLife()
+comment6.params=life
+comment6.target=void\ addLife(int)
+comment7.params=maxLife
+comment7.target=void\ addMaxLife(int)
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SCENE
+comment1.params=shapes\ gui
+comment1.target=SCENE(sas.Shapes[],\ GUI)
+comment2.params=hidden
+comment2.target=void\ setHidden(boolean)
+comment3.params=shapes
+comment3.target=void\ setShapes(sas.Shapes[])
+comment4.params=
+comment4.target=boolean[]\ getAction()
+numComments=5

@@ -10,11 +10,9 @@ public class T
 
     public T()
     {
-
+        Material m = Materials.COPPER;
     }
-    public static void testDraw(){
 
-    }
     
 
 }

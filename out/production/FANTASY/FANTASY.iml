@@ -7,9 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="joml-1.10.5-sources" level="project" />
-    <orderEntry type="library" name="Jamepad" level="project" />
-    <orderEntry type="library" name="sdl2gdx-1.0.41" level="project" />
-    <orderEntry type="library" name="sasRetina_java8" level="project" />
+    <orderEntry type="library" name="lwjgl-release-3.2" level="project" />
+    <orderEntry type="library" name="src" level="project" />
+    <orderEntry type="library" name="uk.co.electronstudio" level="project" />
   </component>
 </module>

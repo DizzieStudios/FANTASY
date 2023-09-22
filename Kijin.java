@@ -1,4 +1,4 @@
-import sas.*;
+
 
 public class Kijin extends Monster
 {
@@ -7,8 +7,5 @@ public class Kijin extends Monster
     {
         super("Kijin",10,level);
     }
-    
-    Picture getPicture(){
-        return null;
-    }
+
 }

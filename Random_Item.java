@@ -14,20 +14,20 @@ public class Random_Item
             if ( dweapontypes.roll() == 1 ){
                 Dice matd = new Dice(materials);
                 if(matd.roll() == 1 ){
-                    item = new Sword(Materials.copper);
+                    item = new Sword(Materials.COPPER);
                 }else if ( matd.roll() == 2 ){
-                    item = new Sword(Materials.iron);
+                    item = new Sword(Materials.IRON);
                 }else{
-                    item = new Sword(Materials.gold);
+                    item = new Sword(Materials.GOLD);
                 }
             }else{
                 Dice matd = new Dice(3);
                 if(matd.roll() == 1 ){
-                    item = new Dagger(Materials.copper);
+                    item = new Dagger(Materials.COPPER);
                 }else if ( matd.roll() == 2 ){
-                    item = new Dagger(Materials.iron);
+                    item = new Dagger(Materials.IRON);
                 }else{
-                    item = new Dagger(Materials.gold);
+                    item = new Dagger(Materials.GOLD);
                 }
             }
         }else{
